@@ -1,0 +1,19 @@
+.news-scroll {
+  display: flex;
+  flex-direction: column;
+  animation: scroll-up 10s linear infinite;
+}
+
+@keyframes scroll-up {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}

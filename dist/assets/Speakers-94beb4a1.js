@@ -1,0 +1,1 @@
+import{j as e}from"./index-d6b27bf4.js";const s=()=>e.jsx("div",{className:"bg-white text-black font-sans p-6 flex items-center justify-center min-h-screen",children:e.jsx("h1",{className:"text-2xl md:text-4xl font-bold text-red-700 text-center",children:"Coming Soon..."})});export{s as default};
