@@ -2,7 +2,7 @@
 
 > Official website for the **BIT IEEE Conference 2025**, built using **React.js** and deployed on **Netlify**.
 
-![BIT IEEE Conference](https://bit-conference-2025.netlify.app/preview.png)
+![BIT IEEE Conference](preview.png)
 
 ## 🔗 Live Demo
 
