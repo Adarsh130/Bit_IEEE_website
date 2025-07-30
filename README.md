@@ -142,4 +142,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/adarsh130).
+If you have any questions or suggestions, feel free to open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/adarsh1306).
