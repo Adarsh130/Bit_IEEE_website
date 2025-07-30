@@ -140,16 +140,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-| Homepage | Speakers | Schedule |
-|---------|----------|----------|
-| ![Home](https://bit-conference-2025.netlify.app/home.png) | ![Speakers](https://bit-conference-2025.netlify.app/speakers.png) | ![Schedule](https://bit-conference-2025.netlify.app/schedule.png) |
-
-> _Update with real screenshots if available or remove this section._
-
----
-
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/adarsh130).
