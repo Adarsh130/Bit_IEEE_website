@@ -130,7 +130,7 @@ Contributions are welcome! If you'd like to contribute:
 **Adarsh Paswan**
 
 - 🔗 GitHub: [@Adarsh130](https://github.com/Adarsh130)
-- 🔗 LinkedIn: [linkedin.com/in/adarsh130](https://www.linkedin.com/in/adarsh130)
+- 🔗 LinkedIn: [linkedin.com/in/adarsh130](https://www.linkedin.com/in/adarsh1306)
 
 ---
 
