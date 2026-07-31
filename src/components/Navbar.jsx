@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import bitLogo from "../assets/BIT-LOGO1.png";
-import ieeelogo from "../assets/IEEE-logo.JPG";
+import ieeelogo from "../assets/IEEE-logo.jpg";
 
 function Navbar() {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
