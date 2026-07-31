@@ -3,7 +3,7 @@ import gorakhnathTemple from "/src/assets/gorakhnath-temple.jpg";
 import maghar from "/src/assets/Maghar.jpg";
 import geetapress from "/src/assets/geetapress.jpg";
 import kushinagar from "/src/assets/Kushinagar.jpg";
-import Lumbini from "/src/assets/Lumbini.jpg";
+import Lumbini from "/src/assets/LUMBINI.jpg";
 import ayodhya from "/src/assets/Ayodhya.jpg";
 
 // Reusable Section Heading with underline
