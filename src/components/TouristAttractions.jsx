@@ -4,7 +4,7 @@ import maghar from "/src/assets/Maghar.jpg";
 import geetapress from "/src/assets/geetapress.jpg";
 import kushinagar from "/src/assets/Kushinagar.jpg";
 import Lumbini from "/src/assets/Lumbini.jpg";
-import ayodhya from "/src/assets/ayodhya.jpg";
+import ayodhya from "/src/assets/Ayodhya.jpg";
 
 // Reusable Section Heading with underline
 const SectionHeading = ({ title }) => (
