@@ -2,7 +2,7 @@ import React from "react";
 import gorakhnathTemple from "/src/assets/gorakhnath-temple.jpg";
 import maghar from "/src/assets/Maghar.jpg";
 import geetapress from "/src/assets/geetapress.jpg";
-import kushinagar from "/src/assets/kushinagar.jpg";
+import kushinagar from "/src/assets/Kushinagar.jpg";
 import Lumbini from "/src/assets/Lumbini.jpg";
 import ayodhya from "/src/assets/ayodhya.jpg";
 
